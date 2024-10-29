@@ -7,3 +7,4 @@ public class Adios {
 		System.out.println("Adios!!!!!");
 		System.out.println("Adios!!!!!");
 		System.out.println("Adios!!!!!");	}
+}
